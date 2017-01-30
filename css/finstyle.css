@@ -1,0 +1,23 @@
+@media (max-width: 768px){
+	.input-group{
+		margin-bottom: 5px;
+	}
+}
+
+body{
+	margin-top: 60px;
+}
+
+.brand{
+	max-height: 25px;
+}
+.padding-top-10{
+	padding-top: 10px;
+}
+
+.panel .edit{
+	background-color: red !important;
+}
+.img-css div a img{
+    width: 200px;
+}
